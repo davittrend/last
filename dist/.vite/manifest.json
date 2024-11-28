@@ -1,0 +1,18 @@
+{
+  "_vendor-CxYdES0_.js": {
+    "file": "assets/vendor-CxYdES0_.js",
+    "name": "vendor"
+  },
+  "index.html": {
+    "file": "assets/index-8ZwFbkmp.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor-CxYdES0_.js"
+    ],
+    "css": [
+      "assets/index-Yvip0j2c.css"
+    ]
+  }
+}
